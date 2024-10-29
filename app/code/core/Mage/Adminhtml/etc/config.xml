@@ -232,6 +232,9 @@
             <global_search>
                 <enable>1</enable>
             </global_search>
+            <dashboard>
+                <enable_charts>1</enable_charts>
+            </dashboard>
         </admin>
     </default>
     <stores>
